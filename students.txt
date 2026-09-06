@@ -1,0 +1,9 @@
+Student ID: 101
+Student Name: Sathish
+Course: CSE
+Marks: 89
+
+Student ID: 102
+Student Name: Arun
+Course: IT
+Marks: 92
